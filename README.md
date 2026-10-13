@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Jadoo Frontend — Mobile First ReactJS
 
 Travel landing page recreated from design reference.
@@ -42,3 +43,6 @@ src/
     Navbar.jsx Hero.jsx Services.jsx Destinations.jsx
     Steps.jsx Testimonials.jsx Partners.jsx Subscribe.jsx Footer.jsx
 ```
+=======
+# jadoo-frontend
+>>>>>>> 1b001417a0fd110214470d49dbe551645a3804d4
